@@ -53,8 +53,14 @@ This project analyzes pizza sales data to uncover business insights and trends u
 ## 📁 Files
 - Power BI File (.pbix)
 - <img width="1248" height="730" alt="Screenshot 2025-11-23 115432" src="https://github.com/user-attachments/assets/141ff0d6-5cf0-49ea-a366-f15e7d7878e8" />
-
+-## 📊 Live Power BI Dashboard
+👉 Click here to view:  
+https://app.powerbi.com/view?r=eyJrIjoiM2Y0YTZhMWQtYjAwMi00MTFkLWJlMDktNmVhZGZjMTNhZmNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 - Dashboard Screenshots
+- <img width="1286" height="718" alt="Screenshot 2025-11-23 115348" src="https://github.com/user-attachments/assets/f06eb190-f2a8-4840-9fc3-79769f7d6aa8" />
+<img width="1285" height="718" alt="Screenshot 2025-11-23 115401" src="https://github.com/user-attachments/assets/475e4dc7-b225-4a7c-bd4d-9d528d8fc89a" />
+
+
 - Dataset
 
 ## 👤 Author
